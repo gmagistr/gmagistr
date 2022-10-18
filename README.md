@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gmagistr
+- 👀 I’m interested in Speech production and perception. I love learning new things about meaning and how it is linguistically conveyed.
+- 🌱 I’m currently learning Python, ML&DL, Neurolinguistics
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: giuseppe.magistro@ugent.be
