@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gmagistr
-- 👀 I’m interested in Speech production and perception. I love learning new things about meaning and how it is linguistically conveyed.
-- 🌱 I’m currently learning Python, ML&DL, Neurolinguistics
-- 💞️ I’m looking to collaborate on neurolinguistics, speech prosody
+- 👀 I’m interested in Speech production and historical syntax. I love learning new things about meaning and how it is linguistically conveyed.
+- 🌱 I’m currently learning Python, ML&DL
+- 💞️ I’m looking to collaborate on speech prosody and new methods to collect linguistic data.
 - 📫 How to reach me: giuseppe.magistro@ugent.be
